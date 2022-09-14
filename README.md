@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&customColorList=1&height=200&section=header&reversal=true&text=Ha%20Kyung's%20Git&fontSize=70&fontColor=#d6ace6)
 ### ✨ Who am I ✨ 
-I am Ha Kyung Lee, majoring in computer science from Ewha Womans University.</br>
+I am Ha Kyung Lee, majoring in computer science.</br>
 I am Android Developer. </br>
 I try to provide a small but beneficial service to many people.
 
